@@ -1,0 +1,22 @@
+{
+  "name": "node-hw",
+  "version": "1.0.0",
+  "description": "node hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AEndelman/liri-node-app.git"
+  },
+  "keywords": [
+    "nodehw"
+  ],
+  "author": "aaron endelman",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/AEndelman/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/AEndelman/liri-node-app#readme"
+}
