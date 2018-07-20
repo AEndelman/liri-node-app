@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/AEndelman/liri-node-app#readme",
   "dependencies": {
-    "dotenv": "^6.0.0"
+    "dotenv": "^6.0.0",
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "node-twitter-api": "^1.8.0",
+    "request": "^2.87.0"
   }
 }
